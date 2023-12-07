@@ -1,0 +1,45 @@
+8/191-2
+Day 1
+-----
+1.Set Matrix Zeros(D)(1) - need to implement O(1) solution
+2.Pascal Triangle(D)
+3.Next Permutation(D)(1) - we have to replace it with just next big not anyone from increasing sequence from end
+4.Kadane Algorithm(D)
+5.Sort array of 012 single scan()
+6.Stock buy and sell(D)
+
+Day 2
+-----
+7.
+
+Day 9
+-----
+49.Subset sum(D)
+50.Subset-2
+51.Combination sum 1(D) - use AND properly in C++ (use & not &&)
+52.Combination sum 2
+53.Palindrome Partitioning
+54.Kth permutation sequence
+
+Day 10
+------
+55.Print all permutations()
+56.
+57.
+58.
+59.
+60.
+
+Day 11
+------
+61.Nth root of an integer(D) - use binary search and use maxAllowed while calculating power
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+
+Questions need to be done in free time (not important for interview)
+1.Subset sum using bitmasking

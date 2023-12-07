@@ -1,0 +1,2 @@
+1.Set Matrix Zero without space complexity
+2.Sort array of 012 in single scan

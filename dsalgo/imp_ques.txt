@@ -1,0 +1,13 @@
+1.How to initialize 2D vector?
+	vector< vector<int> > matrix(n, vector<int> (m, 0));
+2.How to cast int to long long?
+	suppose int a = 10;
+		long long b = 20;
+		long long ans = b + (long long)a;
+3.How to pass 2D matrix as argument in C++ function?
+4.How to pass 2D vector (does it needs pass by reference)?
+5.How to do AND in C++?
+	int a = 5, b = 6; int c = a & b;//correct way 
+	//(a && b) is a wrong way to get AND
+6.How to calculate power(2, n)?
+	1 << n
