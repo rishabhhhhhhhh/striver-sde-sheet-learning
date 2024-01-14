@@ -11,3 +11,5 @@
 	//(a && b) is a wrong way to get AND
 6.How to calculate power(2, n)?
 	1 << n
+7.How to find maximum element in vector?
+	max_element(dp);// vector<int> dp(n);

@@ -1,4 +1,4 @@
-8/191-2
+6/191-2
 Day 1
 -----
 1.Set Matrix Zeros(D)(1) - need to implement O(1) solution
@@ -11,6 +11,22 @@ Day 1
 Day 2
 -----
 7.
+
+Day 3
+-----
+13.
+
+Day 4
+-----
+19.
+
+Day 5
+-----
+25.Reverse a linked list(D) - can easily be done by using prevPtr, currentPtr and nextPtr
+26.Middle of LL(D) - slow and fast ptr approach
+27.Merge 2 sorted LL(D) - can done iteratively using head and prev pointer approach
+28.Remove nth node from end(D) - can be done using 2 or 3 pointers approach maintain prevPtr, currentPtr and ptrAtDistanceK
+29.
 
 Day 9
 -----
@@ -40,6 +56,11 @@ Day 11
 66.
 67.
 68.
+
+Day 25
+------
+61.Max product subarray
+62.
 
 Questions need to be done in free time (not important for interview)
 1.Subset sum using bitmasking
